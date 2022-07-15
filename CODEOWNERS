@@ -1,6 +1,9 @@
 # simple pattern in root
 myFile.txt lokomot476@gmail.com
 
+# directory in root
+/src/ lokomot476+1@gmail.com
+
 # file or directory
 /src/*/file_or_dir lokomot476@gmail.com
 
