@@ -1,0 +1,12 @@
+# simple pattern in root
+myFile.txt myFile@owner.com
+
+# directory in root
+/src/ src@owner.com
+
+# nested directory
+/src/bar/ src_bar_dir@owner.com
+
+# file or directory
+/src/*/file_or_dir file_or_dir@owner.com
+
