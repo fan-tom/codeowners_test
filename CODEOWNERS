@@ -2,7 +2,7 @@
 myFile.txt lokomot476@gmail.com
 
 # directory in root
-/src/ src@owner.com
+/src/ lokomot476+src@gmail.com
 
 # nested directory
 /src/bar/ src_bar_dir@owner.com
