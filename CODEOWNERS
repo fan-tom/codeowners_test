@@ -8,5 +8,5 @@ myFile.txt lokomot476@gmail.com
 /src/bar/ src_bar_dir@owner.com
 
 # file or directory
-/src/*/file_or_dir file_or_dir@owner.com
+/src/*/file_or_dir lokomot476@gmail.com
 
