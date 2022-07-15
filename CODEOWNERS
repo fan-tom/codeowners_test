@@ -1,12 +1,6 @@
 # simple pattern in root
 myFile.txt lokomot476@gmail.com
 
-# directory in root
-/src/ lokomot476+src@gmail.com
-
-# nested directory
-/src/bar/ src_bar_dir@owner.com
-
 # file or directory
 /src/*/file_or_dir lokomot476@gmail.com
 
