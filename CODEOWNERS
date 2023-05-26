@@ -7,3 +7,4 @@ myFile.txt lokomot476@gmail.com
 # file or directory
 /src/**/file_or_dir lokomot476+1@gmail.com
 
+/src/baz/* lokomot476+1@gmail.com
